@@ -1,0 +1,30 @@
+{
+    "name": "front-end-pro",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "test",
+        "prettier": "npx prettier . --write"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MikhailV89/Front-end-Pro.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MikhailV89/Front-end-Pro/issues"
+    },
+    "homepage": "https://github.com/MikhailV89/Front-end-Pro#readme",
+    "dependencies": {
+        "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+        "@eslint/js": "^8.2.0",
+        "eslint": "^8.2.0",
+        "eslint-config-airbnb": "^19.0.4",
+        "globals": "^15.9.0",
+        "prettier": "3.3.3"
+    }
+}
